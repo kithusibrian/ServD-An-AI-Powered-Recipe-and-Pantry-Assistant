@@ -49,7 +49,7 @@ This project also gave me the opportunity to work with modern full-stack technol
 
 # 📸 Screenshots
 
-> Replace these placeholders with actual screenshots after deployment.
+>
 
 | GeminiAI Scan                 | Pantry                          |
 | ----------------------------- | ------------------------------- |
