@@ -1,19 +1,13 @@
 <div align="center">
 
-# 🍳 Servd
-
-### AI-Powered Recipe & Pantry Assistant
-
-Transform the ingredients you already have into delicious meals with the power of **Google Gemini AI**.
-
-# 🍳 Servd
+# 🍳 ServD AI
 
 ### AI-Powered Recipe & Pantry Assistant
 
 Turn pantry ingredients into delicious meals using **Google Gemini AI**, manage your digital cookbook, and discover recipes from around the world.
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_App-success?style=for-the-badge)](https://YOUR-LIVE-LINK.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME/Servd)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_App-success?style=for-the-badge)](https://serv-d-an-ai-powered-recipe-and-pan.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/kithusibrian/ServD-An-AI-Powered-Recipe-and-Pantry-Assistant)
 
 <p>
 <img src="https://img.shields.io/badge/Next.js-16-black?logo=nextdotjs">
@@ -57,13 +51,17 @@ This project also gave me the opportunity to work with modern full-stack technol
 
 > Replace these placeholders with actual screenshots after deployment.
 
-| Home                           | Pantry                           |
-| ------------------------------ | -------------------------------- |
-| ![](docs/screenshots/home.png) | ![](docs/screenshots/pantry.png) |
+| GeminiAI Scan                 | Pantry                          |
+| ----------------------------- | ------------------------------- |
+| ![](frontend/public/scan.png) | ![](frontend/public/pantry.png) |
 
-| Recipe                           | AI Generation                        |
-| -------------------------------- | ------------------------------------ |
-| ![](docs/screenshots/recipe.png) | ![](docs/screenshots/generation.png) |
+| Recipe                           | AI Generation                 |
+| -------------------------------- | ----------------------------- |
+| ![](frontend/public/recipes.png) | ![](frontend/public/gene.png) |
+
+| Dashboard                          |
+| ---------------------------------- |
+| ![](frontend/public/dashboard.png) |
 
 ---
 
@@ -355,9 +353,9 @@ Full Stack Developer
 
 AI Enthusiast
 
-🌐 Portfolio: **PORTFOLIO_URL**
+🌐 Portfolio: **https://personal-portfolio-five-livid-75.vercel.app/**
 
-💼 LinkedIn: **LINKEDIN_URL**
+💼 LinkedIn: **http://www.linkedin.com/in/briankithusi**
 
 📧 Email: **briaokm@gmail.com**
 
